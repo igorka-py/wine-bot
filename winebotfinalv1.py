@@ -13,7 +13,6 @@ from aiogram.fsm.state import State, StatesGroup
 from dotenv import load_dotenv
 
 from aiohttp import web
-import aisqlite 
 from pathlib import Path
 
 
