@@ -22,7 +22,7 @@ async def keep_alive():
             async with session.get("https://wine-bot.onrender.com") as resp:
                 print (f"ping error: {e}")
                 await asyncio.sleep(300)
-threading.Theread(target=labda: asyncio.run(ping_render()), daemon=True).start()
+threading.Thread(target=lambda: asyncio.run(ping_render()), daemon=True).start()
                 
 
 # --- Класс для типов вопросов, пока не используется для JSON ---
