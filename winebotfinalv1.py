@@ -2,15 +2,21 @@ import asyncio
 import json
 import random
 import os
-from dotenv import load_dotenv
 from enum import Enum, auto
-from aiogram import Bot, Dispatcher, F
+from aiogram import Bot, Dispatcher, F, types
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 from aiogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
+from dotenv import load_dotenv
+
+from aiohttp import web
+import aisqlite 
+from pathlib import Path
+
+
 
 # --- Класс для типов вопросов, пока не используется для JSON ---
 class QuestionType(Enum):
@@ -27,7 +33,7 @@ except (FileNotFoundError, json.JSONDecodeError, ValueError) as e:
     print(f"Ошибка загрузки вопросов: {e}")
     QUESTIONS = []
 
-load_dotenv("token.env")
+load_dotenv()
 API_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
@@ -35,6 +41,16 @@ dp = Dispatcher()
 # --- FSM: определение состояний викторины ---
 class QuizStates(StatesGroup):
     in_quiz = State()
+
+async def start_web_server():
+    app = web.Application()
+    runner = web.AppRunner(app)
+    await runner.setup()
+    port = int(os.environ.get("PORT", 10000))
+    site = web.TCPSite(runner, port=port)
+    await site.start()
+    print(f"веб сервер запущен на порту'{port}")
+
 
 # --- Функция показа вопроса ---
 async def ask_question(chat_id: int, state: FSMContext):
@@ -86,9 +102,9 @@ async def ask_question(chat_id: int, state: FSMContext):
 @dp.message(Command("start"))
 async def cmd_start(message: Message, state: FSMContext):
     if not QUESTIONS:
-        await message.answer("❌ Вопросы не загружены. Попробуйте позже.")
+        await message.answer("Вопросы не загружены")
         return
-
+    
     await state.set_state(QuizStates.in_quiz)
     await message.answer(
         "🍷 Добро пожаловать в викторину о винах!",
@@ -101,7 +117,7 @@ async def cmd_start(message: Message, state: FSMContext):
 @dp.callback_query(F.data == "start_quiz")
 async def start_quiz(callback: CallbackQuery, state: FSMContext):
     await ask_question(callback.message.chat.id, state)
-    await callback.answer()
+    await callback.answer
 
 # --- Показ ответа (спойлер) ---
 @dp.callback_query(F.data == "reveal_answer")
@@ -157,9 +173,11 @@ async def answer_handler(callback: CallbackQuery, state: FSMContext):
 # --- Запуск бота ---
 async def main():
     if not QUESTIONS:
-        print("ОШИБКА: Не удалось загрузить вопросы. Проверьте файл questions.json")
+        print("ОШИБКА: Не удалось загрузить вопросы.")
         return
+    
+    await start_web_server()
+    print ("бот пашет как лошадка в поле!")
     await dp.start_polling(bot)
-
 if __name__ == "__main__":
     asyncio.run(main())
