@@ -14,8 +14,16 @@ from dotenv import load_dotenv
 
 from aiohttp import web
 from pathlib import Path
-
-
+from aiohttp import ClientSession
+import threading
+async def keep_alive():
+    while True:
+        async with ClientSession() as session:
+            async with session.get("https://wine-bot.onrender.com") as resp:
+                print (f"ping error: {e}")
+                await asyncio.sleep(300)
+threading.Theread(target=labda: asyncio.run(ping_render()), daemon=True).start()
+                
 
 # --- Класс для типов вопросов, пока не используется для JSON ---
 class QuestionType(Enum):
