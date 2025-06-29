@@ -124,7 +124,7 @@ async def cmd_start(message: Message, state: FSMContext):
 @dp.callback_query(F.data == "start_quiz")
 async def start_quiz(callback: CallbackQuery, state: FSMContext):
     await ask_question(callback.message.chat.id, state)
-    await callback.answer
+    await callback.answer()
 
 # --- Показ ответа (спойлер) ---
 @dp.callback_query(F.data == "reveal_answer")
