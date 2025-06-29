@@ -1,0 +1,2154 @@
+[
+  {
+    "type": "quiz",
+    "question": "Which grape variety dominates red wines from the Left Bank of Bordeaux?",
+    "options": ["Merlot", "Cabernet Sauvignon", "Pinot Noir", "Syrah"],
+    "correct_index": 1
+  },
+  {
+    "type": "quiz",
+    "question": "Which drink is called the 'king of dessert wines'?",
+    "options": ["Madeira", "Tokaji", "Sauternes", "Port"],
+    "correct_index": 2
+  },
+  {
+    "type": "spoiler",
+    "question": "Which region of France is famous for its white wines made from Chardonnay?",
+    "answer": "Burgundy (especially Chablis and Côte d'Or)"
+  },
+  {
+    "type": "quiz",
+    "question": "What does the term 'Brut' mean on a Champagne label?",
+    "options": ["Very sweet", "Semi-dry", "Dry", "Semi-sweet"],
+    "correct_index": 2
+  },
+  {
+    "type": "spoiler",
+    "question": "In which Italian region is Chianti produced?",
+    "answer": "Tuscany"
+  },
+   {
+        "type": "spoiler",
+        "question": "What is the term for the climate of a single vine in viticulture?",
+        "answer": "Microclimate"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the term for the unique taste of wine derived from its environment and growing conditions?",
+        "answer": "Terroir"
+    },
+    {
+        "type": "quiz",
+        "question": "Which soil type is known for good drainage and heat retention, often found in regions like Châteauneuf-du-Pape?",
+        "options": ["Clay", "Galets (large stones)", "Limestone", "Chalk"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape species is most commonly used for quality wine production?",
+        "options": ["Vitis Labrusca", "Vitis Vinifera", "Vitis Riparia", "Vitis Aestivalis"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which term refers to the climate of an entire wine region?",
+        "options": ["Microclimate", "Mesoclimate", "Macroclimate", "Terraclimate"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which factor is a natural climate moderator that can reduce the risk of frost?",
+        "options": ["Altitude", "Large bodies of water", "Sandy soil", "Diurnal shift"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main reason for using American rootstock in vineyards?",
+        "options": ["Improved flavor", "Phylloxera resistance", "Higher yield", "Better sugar accumulation"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which vine training system uses head-trained, bush-like vines?",
+        "options": ["Guyot", "Cordon", "Gobelet", "Pergola"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What is the typical latitudinal range for most of the world’s wine-growing regions?",
+        "options": ["10°–30°", "20°–40°", "30°–50°", "40°–60°"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which term describes the process of removing unripe grape clusters to improve quality?",
+        "options": ["Green harvest", "Veraison", "Pruning", "Bud break"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which climate type is characterized by hot, dry summers and mild, wet winters?",
+        "options": ["Continental", "Maritime", "Mediterranean", "Desert"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What is the name of the microscopic pest that devastated European vineyards in the 19th century?",
+        "options": ["Pierce's disease", "Oidium", "Phylloxera", "Botrytis cinerea"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main measurement unit used in yield regulations in Europe?",
+        "options": ["Tons per acre", "Gallons per acre", "Hectoliters per hectare", "Liters per vine"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which of the following is NOT typically considered a climate moderator?",
+        "options": ["Altitude", "Wind", "Bodies of water", "Rootstock type"],
+        "correct_index": 3
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the name of the yeast species most commonly responsible for alcoholic fermentation in winemaking?",
+        "answer": "Saccharomyces cerevisiae"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the French term for stirring the lees during maturation?",
+        "answer": "Bâtonnage"
+    },
+    {
+        "type": "quiz",
+        "question": "What process converts malic acid into lactic acid in wine?",
+        "options": ["Malolactic fermentation", "Carbonic maceration", "Chaptalization", "Acidification"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the purpose of chaptalization in winemaking?",
+        "options": ["To increase acidity", "To add tannins", "To increase alcohol potential", "To stabilize color"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which vessel type allows the greatest oxygen permeability during aging?",
+        "options": ["Stainless steel tank", "Concrete egg", "Oak barrel", "Glass carboy"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What is the name of the sweet liquid added to create bubbles in traditional method sparkling wine?",
+        "options": ["Liqueur de tirage", "Liqueur d'expédition", "Must", "Dosage"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which type of fermentation is associated with Beaujolais Nouveau?",
+        "options": ["Malolactic fermentation", "Carbonic maceration", "Alcoholic fermentation", "Bottle fermentation"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is the term for the process of separating wine from its sediment?",
+        "options": ["Racking", "Blending", "Fermenting", "Macerating"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which type of wine is typically fermented without skin contact?",
+        "options": ["Red wine", "White wine", "Rosé wine", "Orange wine"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What does 'lees aging' contribute to the wine?",
+        "options": ["Higher sugar content", "Creamy texture and autolytic flavors", "More tannins", "Higher alcohol level"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is a barrique?",
+        "options": ["A concrete tank", "A large glass vessel", "A 225-liter oak barrel", "A stainless steel vat"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which closure type is most associated with preventing oxygen ingress?",
+        "options": ["Natural cork", "Screw cap", "Glass Vinolok", "Synthetic cork"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is the primary reason for cold stabilization in winemaking?",
+        "options": ["To prevent tartrate crystals in bottle", "To kill wild yeasts", "To adjust acidity", "To enhance color extraction"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which term describes wines aged without significant oxygen exposure?",
+        "options": ["Oxidative winemaking", "Reductive winemaking", "Open top fermentation", "Carbonic winemaking"],
+        "correct_index": 1
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the only Château that was elevated from Second Growth to First Growth in the 1855 Classification?",
+        "answer": "Château Mouton Rothschild"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the name of the sweet wine appellation in Bordeaux known for noble rot wines?",
+        "answer": "Sauternes"
+    },
+    {
+        "type": "quiz",
+        "question": "Which river divides Bordeaux’s Left Bank and Right Bank?",
+        "options": ["Garonne", "Dordogne", "Gironde", "Loire"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape variety is dominant in Right Bank blends?",
+        "options": ["Cabernet Sauvignon", "Merlot", "Cabernet Franc", "Malbec"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which soil type is most associated with growing Cabernet Sauvignon on the Left Bank?",
+        "options": ["Clay", "Gravel", "Limestone", "Sand"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main grape variety used in Sauternes sweet wines?",
+        "options": ["Sauvignon Blanc", "Sémillon", "Muscadelle", "Chardonnay"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which classification system includes Château d’Yquem as the only Premier Cru Supérieur?",
+        "options": ["1855 Red Wine Classification", "Graves Classification", "Sauternes 1855 Classification", "St-Émilion Classification"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which is NOT a commune of the Médoc?",
+        "options": ["Pauillac", "Margaux", "St-Julien", "Pomerol"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "What is the smallest major Bordeaux appellation, famous for unclassified wines?",
+        "options": ["Pauillac", "Pomerol", "St-Émilion", "Haut-Médoc"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT part of the 1855 classification?",
+        "options": ["Pomerol", "Margaux", "Pauillac", "St-Estèphe"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which river is critical to the humidity necessary for noble rot in Sauternes?",
+        "options": ["Dordogne", "Garonne", "Gironde", "Lot"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which Bordeaux classification system is revised regularly and is considered controversial?",
+        "options": ["1855 Classification", "St-Émilion Classification", "Sauternes 1855 Classification", "Graves Classification"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What grape is primarily planted in the gravel soils of Haut-Médoc?",
+        "options": ["Cabernet Sauvignon", "Merlot", "Cabernet Franc", "Malbec"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which term is associated with producers like Château Margaux or Château Lafite Rothschild?",
+        "options": ["Cru Bourgeois", "First Growth", "Premier Cru Supérieur", "Grand Cru Classé B"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What food is traditionally paired with Sauternes?",
+        "options": ["Lamb", "Foie gras", "Beef steak", "Roasted chicken"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which Bordeaux region produces wines labeled as 'Entre-Deux-Mers'?",
+        "options": ["Left Bank", "Right Bank", "Between Garonne and Dordogne", "Northern Bordeaux"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What is the primary grape in dry white Bordeaux blends?",
+        "options": ["Chardonnay", "Sauvignon Blanc", "Chenin Blanc", "Viognier"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which château is the top producer of Graves and was included in the 1855 classification?",
+        "options": ["Château Haut-Brion", "Château d’Yquem", "Château Margaux", "Château Cheval Blanc"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the main red grape variety of Burgundy?",
+        "answer": "Pinot Noir"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the name of the limestone-clay soil famous in Burgundy?",
+        "answer": "Kimmeridgian"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the name of the traditional land division system of small vineyard plots in Burgundy?",
+        "answer": "Climat"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape variety is dominant in Chablis?",
+        "options": ["Sauvignon Blanc", "Chardonnay", "Aligoté", "Pinot Blanc"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is the highest classification level in Burgundy?",
+        "options": ["Premier Cru", "Grand Cru", "Village", "Regional"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which Côte produces the majority of Burgundy’s Grand Cru red wines?",
+        "options": ["Côte de Nuits", "Côte de Beaune", "Côte Chalonnaise", "Mâconnais"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Burgundy village is known for only producing Grand Cru white wine?",
+        "options": ["Chablis", "Puligny-Montrachet", "Aloxe-Corton", "Montrachet"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "What is the key soil type of Chablis Grand Cru vineyards?",
+        "options": ["Granite", "Kimmeridgian limestone", "Basalt", "Gravel"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which appellation produces only white wine from Aligoté?",
+        "options": ["Bourgogne Aligoté", "Pouilly-Fuissé", "Meursault", "Volnay"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a Grand Cru of Côte de Nuits?",
+        "options": ["Chambertin", "Musigny", "Clos de Vougeot", "Mercurey"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "Which village is famous for powerful red wines and is home to the Clos des Lambrays Grand Cru?",
+        "options": ["Gevrey-Chambertin", "Nuits-St-Georges", "Morey-St-Denis", "Vosne-Romanée"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which Mâconnais appellation is considered the best for Chardonnay?",
+        "options": ["Mâcon-Villages", "Pouilly-Fuissé", "St-Véran", "Viré-Clessé"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What does 'Monopole' indicate in Burgundy?",
+        "options": ["A vineyard owned by multiple producers", "A vineyard with only one owner", "A type of soil", "A type of trellising system"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which Côte is most famous for its white Grand Cru wines?",
+        "options": ["Côte de Nuits", "Côte de Beaune", "Côte Chalonnaise", "Côte Mâconnaise"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is a Grand Cru of Chablis?",
+        "options": ["Les Clos", "Perrières", "Les Charmes", "Les Amoureuses"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What does 'Premier Cru' indicate in Burgundy?",
+        "options": ["Highest classification", "Second-highest classification", "Entry-level wine", "Regional wine"],
+        "correct_index": 1
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant grape of Sancerre and Pouilly-Fumé?",
+        "answer": "Sauvignon Blanc"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the name of the sweet wine region famous for botrytized Chenin Blanc wines?",
+        "answer": "Coteaux du Layon"
+    },
+    {
+        "type": "quiz",
+        "question": "Which Loire region is best known for Cabernet Franc red wines?",
+        "options": ["Sancerre", "Chinon", "Muscadet", "Vouvray"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is used for Muscadet wines?",
+        "options": ["Melon de Bourgogne", "Chenin Blanc", "Sauvignon Blanc", "Grolleau"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style of wine is Vouvray primarily known for?",
+        "options": ["Cabernet Franc red", "Sauvignon Blanc dry white", "Chenin Blanc in various styles", "Sparkling rosé"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What is 'Sur Lie' aging in Muscadet?",
+        "options": ["Aging on the grape skins", "Aging on the lees", "Aging in new oak", "Aging in bottle"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which subregion is NOT part of the Loire Valley?",
+        "options": ["Anjou", "Touraine", "Côte Chalonnaise", "Nantais"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What soil type is associated with the best Sancerre vineyards?",
+        "options": ["Gravel", "Kimmeridgian marl", "Granite", "Sand"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which Loire appellation is famous for sparkling wines made from Chenin Blanc?",
+        "options": ["Saumur", "Chinon", "Sancerre", "Muscadet"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the dominant red grape of Anjou?",
+        "options": ["Cabernet Sauvignon", "Cabernet Franc", "Pinot Noir", "Malbec"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is typical of Muscadet?",
+        "options": ["High acid, light-bodied white", "Full-bodied red", "Sweet dessert wine", "Oaked Chardonnay"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Loire region produces rosé wines labeled 'Rosé d'Anjou'?",
+        "options": ["Touraine", "Anjou", "Nantais", "Sancerre"],
+        "correct_index": 1
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant red grape of Northern Rhône?",
+        "answer": "Syrah"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the famous sweet fortified wine from the Southern Rhône?",
+        "answer": "Muscat de Beaumes-de-Venise"
+    },
+    {
+        "type": "quiz",
+        "question": "Which Northern Rhône AOC produces only white wine?",
+        "options": ["Condrieu", "Cornas", "Côte-Rôtie", "Hermitage"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is dominant in Châteauneuf-du-Pape?",
+        "options": ["Grenache", "Syrah", "Mourvèdre", "Cinsault"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Rhône appellation allows only Syrah for red wines?",
+        "options": ["Cornas", "Gigondas", "Vacqueyras", "Côtes du Rhône"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What soil type is characteristic of Côte-Rôtie?",
+        "options": ["Schist", "Granite", "Clay-limestone", "Sand"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the term for the famous round stones in Châteauneuf-du-Pape vineyards?",
+        "options": ["Galets", "Schist", "Cobbles", "Marl"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What white grape is used in Hermitage blanc?",
+        "options": ["Marsanne", "Viognier", "Chardonnay", "Grenache Blanc"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Southern Rhône AOC produces wines similar to Châteauneuf-du-Pape but at lower price?",
+        "options": ["Gigondas", "Cornas", "Condrieu", "Côte-Rôtie"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which appellation is famous for rosé wines in Southern Rhône?",
+        "options": ["Tavel", "Vacqueyras", "Cairanne", "Rasteau"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is often co-fermented with Syrah in Côte-Rôtie?",
+        "options": ["Viognier", "Marsanne", "Grenache Blanc", "Clairette"],
+        "correct_index": 0
+    },
+
+    {
+        "type": "spoiler",
+        "question": "What is the minimum aging time on lees for non-vintage Champagne?",
+        "answer": "15 months"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the term for the final sugar adjustment added before bottling Champagne?",
+        "answer": "Dosage"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is NOT one of the three main permitted in Champagne?",
+        "options": ["Chardonnay", "Pinot Noir", "Meunier", "Pinot Blanc"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "What is the term for the mixture added to start the secondary fermentation in Champagne?",
+        "options": ["Liqueur de tirage", "Dosage", "Must", "Mousseux"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which subregion of Champagne is most planted to Chardonnay?",
+        "options": ["Montagne de Reims", "Côte des Blancs", "Vallée de la Marne", "Aube"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is the traditional method used in Champagne called?",
+        "options": ["Charmat", "Transfer", "Méthode Traditionnelle", "Carbonation"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What style of Champagne is made exclusively from white grapes?",
+        "options": ["Blanc de Noirs", "Blanc de Blancs", "Rosé", "Prestige Cuvée"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which of the following is the driest Champagne style?",
+        "options": ["Brut Nature", "Extra Brut", "Brut", "Extra Dry"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the process of gradually turning the bottles to collect sediment called?",
+        "options": ["Disgorgement", "Riddling", "Dosage", "Lees aging"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is the minimum aging for vintage Champagne?",
+        "options": ["24 months", "36 months", "15 months", "48 months"],
+        "correct_index": 1
+    },
+     {
+        "type": "spoiler",
+        "question": "What is the minimum aging time on lees for non-vintage Champagne?",
+        "answer": "15 months"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the term for the final sugar adjustment added before bottling Champagne?",
+        "answer": "Dosage"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is NOT one of the three main permitted in Champagne?",
+        "options": ["Chardonnay", "Pinot Noir", "Meunier", "Pinot Blanc"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "What is the term for the mixture added to start the secondary fermentation in Champagne?",
+        "options": ["Liqueur de tirage", "Dosage", "Must", "Mousseux"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which subregion of Champagne is most planted to Chardonnay?",
+        "options": ["Montagne de Reims", "Côte des Blancs", "Vallée de la Marne", "Aube"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is the traditional method used in Champagne called?",
+        "options": ["Charmat", "Transfer", "Méthode Traditionnelle", "Carbonation"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What style of Champagne is made exclusively from white grapes?",
+        "options": ["Blanc de Noirs", "Blanc de Blancs", "Rosé", "Prestige Cuvée"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which of the following is the driest Champagne style?",
+        "options": ["Brut Nature", "Extra Brut", "Brut", "Extra Dry"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the process of gradually turning the bottles to collect sediment called?",
+        "options": ["Disgorgement", "Riddling", "Dosage", "Lees aging"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What is the minimum aging for vintage Champagne?",
+        "options": ["24 months", "36 months", "15 months", "48 months"],
+        "correct_index": 1
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant grape of Alsace Grand Cru wines?",
+        "answer": "Riesling"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the term for the late harvest sweet wines of Alsace?",
+        "answer": "Vendanges Tardives"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is NOT one of the four permitted for Alsace Grand Cru?",
+        "options": ["Riesling", "Gewürztraminer", "Pinot Noir", "Pinot Gris"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What is the name of the sweet wine from Alsace made from botrytized grapes?",
+        "options": ["Vendanges Tardives", "Sélection de Grains Nobles", "Coteaux du Layon", "Beerenauslese"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What mountain range shelters Alsace from rain?",
+        "options": ["Vosges", "Alps", "Pyrenees", "Massif Central"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style of wine is most typical of Alsace?",
+        "options": ["Sweet wines", "Dry, aromatic whites", "Sparkling reds", "Oaky Chardonnays"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which sparkling wine is produced in Alsace?",
+        "options": ["Crémant d Alsace", "Crémant de Bourgogne", "Blanquette de Limoux", "Crémant de Loire"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is commonly used for Crémant d'Alsace?",
+        "options": ["Pinot Blanc", "Riesling", "Gewürztraminer", "Chardonnay"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which term refers to botrytis-affected wines in Alsace?",
+        "options": ["Vendanges Tardives", "Sélection de Grains Nobles", "Auslese", "Beerenauslese"],
+        "correct_index": 1
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant red grape of Bandol AOC?",
+        "answer": "Mourvèdre"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the term for the sweet fortified wines of Roussillon?",
+        "answer": "Vin Doux Naturel"
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is famous for high-quality rosé wines?",
+        "options": ["Bandol", "Minervois", "Corbières", "Fitou"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is key in the fortified wines of Banyuls?",
+        "options": ["Grenache", "Syrah", "Carignan", "Mourvèdre"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT an appellation in Languedoc?",
+        "options": ["Corbières", "Minervois", "Fitou", "Hermitage"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is dominant in Fitou reds?",
+        "options": ["Carignan", "Merlot", "Cabernet Sauvignon", "Cinsault"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the general climate of South France?",
+        "options": ["Continental", "Maritime", "Mediterranean", "Alpine"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which style of wine is most associated with Picpoul de Pinet AOC?",
+        "options": ["High acid white", "Powerful red", "Sweet fortified", "Oaked Chardonnay"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is most associated with Vin Doux Naturel made from Muscat?",
+        "options": ["Muscat de Rivesaltes", "Bandol", "Corbières", "Minervois"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these regions is famous for both fortified and still wines?",
+        "options": ["Roussillon", "Bordeaux", "Champagne", "Loire"],
+        "correct_index": 0
+    },
+     {
+        "type": "spoiler",
+        "question": "What is the dominant grape variety of Barolo?",
+        "answer": "Nebbiolo"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the sparkling wine of Piedmont made from Moscato called?",
+        "answer": "Asti Spumante"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is used for Barbaresco DOCG wines?",
+        "options": ["Nebbiolo", "Barbera", "Dolcetto", "Sangiovese"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is famous for Barbera d'Asti DOCG?",
+        "options": ["Piedmont", "Tuscany", "Veneto", "Lombardy"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the minimum aging for Barolo DOCG wines?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which wine is made from Dolcetto grape?",
+        "options": ["Dolcetto d'Alba", "Barolo", "Barbaresco", "Gavi"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Piedmont DOCG produces white wine from Cortese grape?",
+        "options": ["Gavi", "Asti", "Barolo", "Barbera d'Alba"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the climate of Piedmont?",
+        "options": ["Mediterranean", "Continental with Alpine influence", "Maritime", "Tropical"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "What style of wine is Moscato d Asti?",
+        "options": ["Sweet, lightly sparkling", "Dry red", "Full-bodied white", "Fortified wine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DOCG is known for producing Nebbiolo wines in Piedmont?",
+        "options": ["Barolo", "Gavi", "Soave", "Valpolicella"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these grapes is NOT typical for Piedmont?",
+        "options": ["Nebbiolo", "Barbera", "Dolcetto", "Sangiovese"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "Which wine is often considered the 'king of wines and wine of kings'?",
+        "options": ["Barolo", "Chianti", "Amarone", "Brunello di Montalcino"],
+        "correct_index": 0
+    },
+     {
+        "type": "spoiler",
+        "question": "What is the name of Lombardy famous traditional method sparkling wine?",
+        "answer": "Franciacorta"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the sweet red sparkling wine from Emilia-Romagna called?",
+        "answer": "Lambrusco"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is primarily used in Franciacorta DOCG wines?",
+        "options": ["Chardonnay", "Moscato", "Glera", "Nebbiolo"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What production method is used for Franciacorta?",
+        "options": ["Méthode Traditionnelle", "Charmat", "Carbonation", "Transfer method"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is typical of Lambrusco wines?",
+        "options": ["Sweet red sparkling", "Dry white still", "Fortified dessert", "Full-bodied red"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is famous for producing Lambrusco?",
+        "options": ["Emilia-Romagna", "Lombardy", "Piedmont", "Veneto"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main style of Oltrepò Pavese DOCG wines?",
+        "options": ["Traditional method sparkling", "Amarone-style red", "Sweet fortified wine", "Botrytized dessert wine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is known for producing both sparkling and still wines from Pinot Nero (Noir)?",
+        "options": ["Oltrepò Pavese", "Valpolicella", "Soave", "Barolo"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the climate type of Lombardy’s wine regions?",
+        "options": ["Continental with Alpine influence", "Mediterranean", "Maritime", "Tropical"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a style associated with Emilia-Romagna?",
+        "options": ["Lambrusco", "Albana di Romagna", "Franciacorta", "Sangiovese di Romagna"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What is Albana di Romagna DOCG best known for?",
+        "options": ["Dry white wines", "Sweet white wines", "Sparkling reds", "Fortified wines"],
+        "correct_index": 1
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the name of the sweet wine made from dried grapes in Veneto?",
+        "answer": "Recioto"
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is famous for producing Prosecco?",
+        "options": ["Veneto", "Piedmont", "Tuscany", "Emilia-Romagna"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What grape is used in Amarone della Valpolicella?",
+        "options": ["Corvina", "Nebbiolo", "Sangiovese", "Barbera"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which wine style is typical of Valpolicella Ripasso?",
+        "options": ["Red wine re-fermented on Amarone pomace", "Sweet white wine", "Sparkling red wine", "Botrytized dessert wine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region produces Collio DOC wines?",
+        "options": ["Friuli-Venezia Giulia", "Veneto", "Trentino-Alto Adige", "Lombardy"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is known for Teroldego Rotaliano DOC?",
+        "options": ["Trentino-Alto Adige", "Veneto", "Friuli-Venezia Giulia", "Emilia-Romagna"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main grape in Prosecco DOC/DOCG?",
+        "options": ["Glera", "Chardonnay", "Pinot Grigio", "Trebbiano"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the climate type of Northeast Italy?",
+        "options": ["Continental with Alpine influence", "Mediterranean", "Tropical", "Maritime"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which wine is produced from dried grapes in Veneto?",
+        "options": ["Recioto", "Ripasso", "Valpolicella Classico", "Soave Superiore"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is widely planted in Friuli for white wines?",
+        "options": ["Friulano", "Sangiovese", "Corvina", "Dolcetto"],
+        "correct_index": 0
+    },{
+        "type": "spoiler",
+        "question": "What is the primary grape variety in Chianti Classico DOCG?",
+        "answer": "Sangiovese"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the name for Tuscany famous blend of Sangiovese with international varieties?",
+        "answer": "Super Tuscan"
+    },
+    {
+        "type": "quiz",
+        "question": "Which DOCG produces the famous Brunello wines?",
+        "options": ["Brunello di Montalcino", "Chianti Classico", "Vino Nobile di Montepulciano", "Morellino di Scansano"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the minimum aging for Brunello di Montalcino DOCG?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What grape forms the base of Vino Nobile di Montepulciano DOCG?",
+        "options": ["Sangiovese (Prugnolo Gentile)", "Nebbiolo", "Montepulciano", "Cabernet Sauvignon"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is famous for Super Tuscan wines?",
+        "options": ["Bolgheri", "Chianti", "Montalcino", "Montepulciano"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DOCG is known for dessert wines made from dried grapes?",
+        "options": ["Vin Santo", "Brunello di Montalcino", "Morellino di Scansano", "Chianti Classico"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main style of Chianti Classico?",
+        "options": ["Dry red wine", "Sweet white wine", "Sparkling rosé", "Fortified red wine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is famous for Morellino di Scansano DOCG wines?",
+        "options": ["Southern Tuscany", "Northern Tuscany", "Central Tuscany", "Eastern Tuscany"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the climate type of Tuscany?",
+        "options": ["Mediterranean", "Continental", "Maritime", "Tropical"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a DOCG of Tuscany?",
+        "options": ["Chianti", "Amarone della Valpolicella", "Vino Nobile di Montepulciano", "Brunello di Montalcino"],
+        "correct_index": 1
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the primary grape of Taurasi DOCG?",
+        "answer": "Aglianico"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant white grape in Greco di Tufo DOCG?",
+        "answer": "Greco"
+    },
+    {
+        "type": "quiz",
+        "question": "Which DOCG is famous for Aglianico-based wines from Basilicata?",
+        "options": ["Aglianico del Vulture", "Taurasi", "Cannonau di Sardegna", "Etna Rosso"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main red grape in Montepulciano d Abruzzo DOC?",
+        "options": ["Montepulciano", "Sangiovese", "Nebbiolo", "Aglianico"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which island region produces Cannonau wines?",
+        "options": ["Sardinia", "Sicily", "Elba", "Capri"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is dominant in Etna Rosso DOC wines?",
+        "options": ["Nerello Mascalese", "Nero d Avola", "Aglianico", "Cannonau"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the climate of Southern Italy?",
+        "options": ["Mediterranean", "Continental", "Alpine", "Tropical"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DOCG produces Fiano-based wines?",
+        "options": ["Fiano di Avellino", "Greco di Tufo", "Taurasi", "Aglianico del Vulture"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is known for Nero dAvola wines?",
+        "options": ["Sicily", "Sardinia", "Calabria", "Abruzzo"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT typical of Central or Southern Italy?",
+        "options": ["Aglianico", "Cannonau", "Barbera", "Montepulciano"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "Which DOC produces wines from Montepulciano grape, not Sangiovese?",
+        "options": ["Montepulciano d Abruzzo", "Vino Nobile di Montepulciano", "Chianti", "Brunello di Montalcino"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the primary grape of Nero d Avola wines?",
+        "answer": "Nero d Avola"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the fortified wine produced on the island of Sicily?",
+        "answer": "Marsala"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the main grape of Cannonau di Sardegna DOC?",
+        "answer": "Cannonau (Grenache)"
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is famous for Marsala wine?",
+        "options": ["Sicily", "Sardinia", "Tuscany", "Piedmont"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is dominant in Etna Rosso DOC wines?",
+        "options": ["Nerello Mascalese", "Nero d Avola", "Cannonau", "Aglianico"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style of wine is Marsala?",
+        "options": ["Fortified wine", "Dry red", "Sweet sparkling", "Botrytized dessert wine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is a DOCG from Sicily?",
+        "options": ["Cerasuolo di Vittoria", "Marsala", "Etna Rosso", "Cannonau di Sardegna"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which island is famous for Cannonau wines?",
+        "options": ["Sardinia", "Sicily", "Elba", "Capri"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the climate type of Sicily?",
+        "options": ["Mediterranean", "Alpine", "Continental", "Tropical"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is often used for sweet Passito wines from Pantelleria?",
+        "options": ["Zibibbo (Muscat of Alexandria)", "Nero d Avola", "Cannonau", "Greco"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT typical of Sicily?",
+        "options": ["Nero d Avola", "Marsala", "Nerello Mascalese", "Barbera"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "Which island region produces Vermentino di Sardegna DOC wines?",
+        "options": ["Sardinia", "Sicily", "Elba", "Pantelleria"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style is typical for Etna Bianco DOC?",
+        "options": ["Dry white", "Sweet red", "Fortified wine", "Sparkling rosé"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main white grape of Etna Bianco DOC?",
+        "options": ["Carricante", "Catarratto", "Zibibbo", "Vermentino"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Sardinian wine is based on Grenache grape?",
+        "options": ["Cannonau di Sardegna", "Vermentino di Sardegna", "Marsala", "Etna Rosso"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these islands is known for producing Passito di Pantelleria?",
+        "options": ["Pantelleria", "Sardinia", "Elba", "Lipari"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the primary white grape of Rías Baixas DO?",
+        "answer": "Albariño"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant red grape of Ribeira Sacra DO?",
+        "answer": "Mencía"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the climate type of Galicia?",
+        "answer": "Maritime"
+    },
+    {
+        "type": "quiz",
+        "question": "Which DO is most associated with Albariño?",
+        "options": ["Rías Baixas", "Ribeira Sacra", "Valdeorras", "Monterrei"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is key for red wines of Ribeira Sacra?",
+        "options": ["Mencía", "Tempranillo", "Garnacha", "Bobal"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DO is known for Godello white wines?",
+        "options": ["Valdeorras", "Rías Baixas", "Ribeira Sacra", "Monterrei"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a DO of Galicia?",
+        "options": ["Monterrei", "Valdeorras", "Rueda", "Rías Baixas"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What style is typical of Rías Baixas wines?",
+        "options": ["Dry white", "Sweet red", "Fortified white", "Sparkling rosé"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is typical in Monterrei DO whites?",
+        "options": ["Godello", "Tempranillo", "Garnacha", "Cariñena"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region of Galicia is known for steep terraced vineyards?",
+        "options": ["Ribeira Sacra", "Rías Baixas", "Valdeorras", "Monterrei"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these grapes is NOT typical for Galicia?",
+        "options": ["Albariño", "Godello", "Mencía", "Monastrell"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "What is the general climate of Rías Baixas?",
+        "options": ["Cool maritime", "Hot continental", "Mediterranean", "Alpine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DO produces mainly white wines in Galicia?",
+        "options": ["Rías Baixas", "Ribeira Sacra", "Toro", "La Mancha"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Galician DO is least known internationally?",
+        "options": ["Monterrei", "Rías Baixas", "Valdeorras", "Ribeira Sacra"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is often blended with Albariño in Rías Baixas?",
+        "options": ["Loureira", "Tempranillo", "Mencía", "Monastrell"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant red grape of Rioja?",
+        "answer": "Tempranillo"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the term for Rioja wines aged at least two years with one year in oak?",
+        "answer": "Crianza"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the climate type of Rioja?",
+        "answer": "Continental with Atlantic influence"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape forms the base of most Rioja red blends?",
+        "options": ["Tempranillo", "Garnacha", "Mazuelo", "Graciano"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Rioja subzone is known for higher altitude vineyards and lighter wines?",
+        "options": ["Rioja Alavesa", "Rioja Alta", "Rioja Oriental", "Navarra"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the minimum aging for Gran Reserva red Rioja?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a traditional grape of Rioja?",
+        "options": ["Tempranillo", "Graciano", "Cabernet Sauvignon", "Mazuelo"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What is the aging requirement for Reserva red Rioja?",
+        "options": ["At least 1 year in oak, 2 years total", "At least 1 year in oak, 3 years total", "2 years in oak, 4 years total", "3 years in oak, 5 years total"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these styles is common in Rioja whites?",
+        "options": ["Dry white", "Sweet fortified", "Botrytized dessert", "Sparkling rosé"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which subregion of Rioja is warmest?",
+        "options": ["Rioja Oriental", "Rioja Alta", "Rioja Alavesa", "Navarra"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What grape is often used to add body and alcohol to Rioja blends?",
+        "options": ["Garnacha", "Tempranillo", "Graciano", "Mazuelo"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main oak traditionally used for aging Rioja?",
+        "options": ["American oak", "French oak", "Hungarian oak", "Slavonian oak"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is typical for Rioja Gran Reserva?",
+        "options": ["Long-aged, complex red wine", "Young, fruity white wine", "Fortified sweet wine", "Sparkling rosé"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the minimum aging for Crianza white Rioja?",
+        "options": ["1 year total", "1 year with 6 months oak", "2 years with 1 year oak", "3 years total"],
+        "correct_index": 1
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is NOT part of traditional Rioja white blends?",
+        "options": ["Viura", "Malvasia", "Tempranillo Blanco", "Chardonnay"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "What type of wine is produced under Rioja DOCa?",
+        "options": ["Red, white and rosé", "Red only", "White only", "Sparkling only"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant red grape of Ribera del Duero DO?",
+        "answer": "Tempranillo"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the climate type of Castilla y León?",
+        "answer": "Continental"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the main white grape of Rueda DO?",
+        "answer": "Verdejo"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is most associated with Ribera del Duero DO?",
+        "options": ["Tempranillo", "Garnacha", "Mazuelo", "Mencía"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DO is famous for Verdejo-based white wines?",
+        "options": ["Rueda", "Toro", "Bierzo", "Ribera del Duero"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main grape of Toro DO red wines?",
+        "options": ["Tempranillo (Tinta de Toro)", "Garnacha", "Mencía", "Graciano"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DO of Castilla y León is best known for Mencía red wines?",
+        "options": ["Bierzo", "Toro", "Rueda", "Ribera del Duero"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style is typical for Toro DO wines?",
+        "options": ["Powerful red wines", "Sweet fortified wines", "Sparkling white wines", "Botrytized dessert wines"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these DOs produces mainly white wines?",
+        "options": ["Rueda", "Toro", "Bierzo", "Ribera del Duero"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the general climate of Ribera del Duero?",
+        "options": ["Continental", "Maritime", "Mediterranean", "Tropical"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT typical of Castilla y León?",
+        "options": ["Tempranillo", "Verdejo", "Mencía", "Monastrell"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "What is Tempranillo called locally in Toro?",
+        "options": ["Tinta de Toro", "Tinta Fina", "Cencibel", "Tinto del País"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DO is known for higher altitude vineyards and extreme diurnal shifts?",
+        "options": ["Ribera del Duero", "Toro", "Rueda", "Bierzo"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DO produces wines primarily from Mencía on slate soils?",
+        "options": ["Bierzo", "Ribera del Duero", "Toro", "Rueda"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these grapes is often blended with Tempranillo in Ribera del Duero?",
+        "options": ["Cabernet Sauvignon", "Verdejo", "Mencía", "Monastrell"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a DO in Castilla y León?",
+        "options": ["Toro", "Bierzo", "Rueda", "Priorat"],
+        "correct_index": 3
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the primary sparkling wine produced in Catalonia?",
+        "answer": "Cava"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the primary grape of Priorat DOCa red wines?",
+        "answer": "Garnacha"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the climate type of Catalonia?",
+        "answer": "Mediterranean"
+    },
+    {
+        "type": "quiz",
+        "question": "Which region produces Cava?",
+        "options": ["Catalonia", "Castilla y León", "Rioja", "Galicia"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these grapes is commonly used in Cava production?",
+        "options": ["Macabeo", "Tempranillo", "Albariño", "Mencía"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Catalonian region holds DOCa status?",
+        "options": ["Priorat", "Penedès", "Costers del Segre", "Montsant"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the primary red grape in Priorat blends?",
+        "options": ["Garnacha", "Tempranillo", "Cabernet Sauvignon", "Mencía"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which international grape is often blended in Priorat wines?",
+        "options": ["Cabernet Sauvignon", "Mencía", "Albariño", "Verdejo"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region produces high-quality still wines in addition to Cava?",
+        "options": ["Penedès", "Toro", "Bierzo", "Ribera del Duero"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What soil type is characteristic of Priorat?",
+        "options": ["Llicorella (slate)", "Granite", "Limestone", "Alluvial"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these grapes is NOT typical for Cava production?",
+        "options": ["Macabeo", "Parellada", "Xarel-lo", "Verdejo"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is typical of Cava?",
+        "options": ["Traditional method sparkling wine", "Sweet fortified wine", "Botrytized dessert wine", "Red still wine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which region surrounds Priorat DOCa?",
+        "options": ["Montsant", "Penedès", "Costers del Segre", "Ribera del Duero"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What aging method is used for Cava?",
+        "options": ["Traditional method (méthode traditionnelle)", "Charmat method", "Transfer method", "Carbonation"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Catalonian DO produces wines from both local and international grapes?",
+        "options": ["Penedès", "Ribera del Duero", "Toro", "Bierzo"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a Catalonian DO?",
+        "options": ["Penedès", "Costers del Segre", "Toro", "Montsant"],
+        "correct_index": 2
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the fortified wine style most associated with Andalusia?",
+        "answer": "Sherry"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the white chalky soil of Jerez called?",
+        "answer": "Albariza"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the main grape variety for Fino and Manzanilla Sherry?",
+        "answer": "Palomino"
+    },
+    {
+        "type": "quiz",
+        "question": "Which region is famous for producing Sherry?",
+        "options": ["Jerez", "Ribera del Duero", "Rioja", "Toro"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What grape is primarily used for sweet Sherries like PX?",
+        "options": ["Pedro Ximénez", "Palomino", "Moscatel", "Garnacha"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style of Sherry is aged under flor?",
+        "options": ["Fino", "Oloroso", "Cream", "Pedro Ximénez"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which town is NOT part of the Sherry triangle?",
+        "options": ["Sanlúcar de Barrameda", "El Puerto de Santa María", "Jerez de la Frontera", "Seville"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "What is the system used to age Sherry called?",
+        "options": ["Solera", "Charmat", "Criaderas", "Transfer"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is Manzanilla Sherry?",
+        "options": ["Fino-style Sherry from Sanlúcar de Barrameda", "Sweet Sherry from Jerez", "Oloroso from Puerto de Santa María", "Cream Sherry blend"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the climate of Andalusia?",
+        "options": ["Hot Mediterranean", "Cool Maritime", "Continental", "Alpine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these styles is sweet?",
+        "options": ["Pedro Ximénez", "Fino", "Manzanilla", "Amontillado"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these Sherries is fully oxidatively aged?",
+        "options": ["Oloroso", "Fino", "Manzanilla", "Amontillado (early stage)"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What soil type is most prized for Palomino in Jerez?",
+        "options": ["Albariza", "Barro", "Arenas", "Slate"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is sometimes used for Moscatel Sherry?",
+        "options": ["Muscat of Alexandria", "Palomino", "Pedro Ximénez", "Garnacha"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Sherry style starts under flor but finishes oxidatively?",
+        "options": ["Amontillado", "Fino", "Manzanilla", "Pedro Ximénez"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is a sweetened Sherry style?",
+        "options": ["Cream", "Fino", "Manzanilla", "Oloroso Seco"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the primary grape of the Mosel region?",
+        "answer": "Riesling"
+    },
+    {
+        "type": "spoiler",
+        "question": "What soil type is characteristic of Mosel's best vineyards?",
+        "answer": "Blue slate"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the climate type of Mosel?",
+        "answer": "Cool continental"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape dominates plantings in Mosel?",
+        "options": ["Riesling", "Silvaner", "Müller-Thurgau", "Spätburgunder"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What type of wines is Mosel famous for?",
+        "options": ["Delicate, high-acid white wines", "Full-bodied red wines", "Fortified wines", "Sparkling wines"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which soil is typical for Mosel's steep vineyards?",
+        "options": ["Blue slate", "Limestone", "Granite", "Sand"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Prädikat level indicates a sweet wine made from botrytized grapes?",
+        "options": ["Beerenauslese", "Kabinett", "Spätlese", "Trocken"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style of wine is typical for Kabinett Riesling from Mosel?",
+        "options": ["Light, off-dry to dry white", "Full-bodied red", "Sweet fortified", "Sparkling rosé"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a Prädikat level?",
+        "options": ["Kabinett", "Spätlese", "Auslese", "Reserva"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "What is the main river that influences Mosel vineyards?",
+        "options": ["Mosel", "Rhine", "Main", "Nahe"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which characteristic best describes Mosel Riesling?",
+        "options": ["High acidity, low alcohol", "Low acidity, high alcohol", "High tannins, low acidity", "Full body, low acid"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is a ripeness level for dry Mosel Riesling?",
+        "options": ["Trocken", "Spätlese", "Auslese", "Beerenauslese"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which vineyard aspect is most prized in Mosel?",
+        "options": ["South-facing", "North-facing", "East-facing", "West-facing"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is rare in Mosel?",
+        "options": ["Red wines", "Delicate white wines", "Off-dry whites", "Sweet whites"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is a key hazard in Mosel viticulture?",
+        "options": ["Frost damage", "Excess heat", "Drought", "Smoke taint"],
+        "correct_index": 0
+    },
+     {
+        "type": "spoiler",
+        "question": "What is the dominant grape of Rheingau?",
+        "answer": "Riesling"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the main red grape grown in Rheingau?",
+        "answer": "Spätburgunder (Pinot Noir)"
+    },
+    {
+        "type": "spoiler",
+        "question": "What river influences the climate of Rheingau?",
+        "answer": "Rhine"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape dominates plantings in Rheingau?",
+        "options": ["Riesling", "Müller-Thurgau", "Silvaner", "Grauburgunder"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style is Rheingau best known for?",
+        "options": ["Dry and off-dry Riesling", "Full-bodied red wines", "Sweet botrytized wines only", "Sparkling wines"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which red grape is commonly grown in Rheingau?",
+        "options": ["Spätburgunder", "Dornfelder", "Lemberger", "Cabernet Sauvignon"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is the climate type of Rheingau?",
+        "options": ["Cool continental", "Mediterranean", "Maritime", "Tropical"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a Prädikat level?",
+        "options": ["Kabinett", "Spätlese", "Gran Reserva", "Auslese"],
+        "correct_index": 2
+    },
+    {
+        "type": "quiz",
+        "question": "What factor contributes to the warmth in Rheingau’s vineyards?",
+        "options": ["Reflection from the Rhine River", "Hot desert winds", "Volcanic soil heat", "Proximity to the Alps"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which slope aspect is prized in Rheingau for ripening grapes?",
+        "options": ["South-facing", "North-facing", "East-facing", "West-facing"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Prädikat level represents the highest ripeness without botrytis?",
+        "options": ["Auslese", "Beerenauslese", "Trockenbeerenauslese", "Eiswein"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is rare in Rheingau?",
+        "options": ["Sweet fortified wines", "Dry Riesling", "Off-dry Riesling", "Sweet botrytized wines"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which soil type is common in Rheingau vineyards?",
+        "options": ["Slate and loess", "Granite", "Sand", "Limestone"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these describes typical Rheingau Riesling?",
+        "options": ["Structured, with higher alcohol than Mosel", "Low alcohol and very light body", "Full-bodied red wine", "Sparkling wine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is commonly produced from Spätburgunder in Rheingau?",
+        "options": ["Dry red wine", "Sweet fortified wine", "Sparkling rosé", "Botrytized dessert wine"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the primary grape of Pfalz?",
+        "answer": "Riesling"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the climate type of Pfalz?",
+        "answer": "Warm continental"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the main red grape of Pfalz?",
+        "answer": "Spätburgunder (Pinot Noir)"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape dominates plantings in Pfalz?",
+        "options": ["Riesling", "Müller-Thurgau", "Silvaner", "Grauburgunder"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style is Pfalz best known for?",
+        "options": ["Dry Riesling", "Sweet fortified wines", "Botrytized sweet wines only", "Sparkling rosé"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which red grape is common in Pfalz?",
+        "options": ["Spätburgunder", "Dornfelder", "Lemberger", "Cabernet Sauvignon"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Pfalz lies along which mountain range?",
+        "options": ["Haardt Mountains", "Taunus Mountains", "Alps", "Vosges"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What soil types are common in Pfalz?",
+        "options": ["Sandstone and limestone", "Granite", "Slate", "Basalt"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a typical grape of Pfalz?",
+        "options": ["Tempranillo", "Riesling", "Spätburgunder", "Grauburgunder"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these best describes Pfalz Riesling?",
+        "options": ["Fuller-bodied, often dry", "Light, low alcohol", "Fortified", "Sparkling only"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is a key climate benefit in Pfalz viticulture?",
+        "options": ["Rain shadow of Haardt Mountains", "High humidity", "Cool Alpine winds", "Desert influence"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which neighboring region influences Pfalz's climate?",
+        "options": ["Alsace", "Mosel", "Rheingau", "Nahe"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is rare in Pfalz?",
+        "options": ["Sweet fortified wines", "Dry Riesling", "Dry red wines", "Grauburgunder dry whites"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which Prädikat level is common in Pfalz for high-quality dry wines?",
+        "options": ["Spätlese trocken", "Beerenauslese", "Trockenbeerenauslese", "Eiswein"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape besides Riesling is widely planted for whites in Pfalz?",
+        "options": ["Grauburgunder", "Albariño", "Tempranillo", "Zinfandel"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant white grape of Niederösterreich?",
+        "answer": "Grüner Veltliner"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the main red grape of Niederösterreich?",
+        "answer": "Zweigelt"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the climate type of Niederösterreich?",
+        "answer": "Continental with Pannonian influence"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape dominates plantings in Niederösterreich?",
+        "options": ["Grüner Veltliner", "Riesling", "Zweigelt", "Blaufränkisch"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DAC is famous for Riesling and Grüner Veltliner on steep terraces?",
+        "options": ["Wachau", "Kremstal", "Kamptal", "Carnuntum"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which red grape is widely planted in Niederösterreich?",
+        "options": ["Zweigelt", "Pinot Noir", "Tempranillo", "Merlot"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style of wine is typical for Wachau?",
+        "options": ["Dry white wines", "Sweet fortified wines", "Sparkling rosé", "Full-bodied red wines"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What term describes Wachau’s fullest-bodied dry wines?",
+        "options": ["Smaragd", "Federspiel", "Steinfeder", "Ausbruch"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a DAC of Niederösterreich?",
+        "options": ["Carnuntum", "Kamptal", "Kremstal", "Burgenland"],
+        "correct_index": 3
+    },
+    {
+        "type": "quiz",
+        "question": "Which soil type is common in Wachau's best vineyards?",
+        "options": ["Primary rock (gneiss, schist)", "Limestone", "Granite", "Basalt"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which climate influence helps ripening in Niederösterreich?",
+        "options": ["Pannonian warmth", "Alpine cooling", "Oceanic breezes", "Tropical winds"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DAC is known for red wines in Niederösterreich?",
+        "options": ["Carnuntum", "Wachau", "Kamptal", "Kremstal"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is rare in Niederösterreich?",
+        "options": ["Sweet fortified wines", "Dry Grüner Veltliner", "Dry Riesling", "Zweigelt reds"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which category in Wachau is lightest in body?",
+        "options": ["Steinfeder", "Federspiel", "Smaragd", "Auslese"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DAC focuses on Grüner Veltliner and Riesling with stricter origin control?",
+        "options": ["Kamptal", "Carnuntum", "Burgenland", "Wien"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the dominant red grape of Burgenland?",
+        "answer": "Blaufränkisch"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the famous sweet wine region of Burgenland?",
+        "answer": "Neusiedlersee"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the climate type of Burgenland?",
+        "answer": "Warm Pannonian"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is most associated with Burgenland red wines?",
+        "options": ["Blaufränkisch", "Zweigelt", "St. Laurent", "Cabernet Sauvignon"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DAC focuses on Blaufränkisch in Burgenland?",
+        "options": ["Mittelburgenland DAC", "Carnuntum DAC", "Wachau DAC", "Kamptal DAC"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style is Burgenland famous for besides reds?",
+        "options": ["Botrytized sweet wines", "Sparkling wines", "Dry fortified wines", "Sweet fortified wines"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which lake helps create the conditions for botrytis in Burgenland?",
+        "options": ["Lake Neusiedl", "Lake Constance", "Lake Geneva", "Lake Wolfgang"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a DAC of Burgenland?",
+        "options": ["Wachau", "Mittelburgenland", "Leithaberg", "Eisenberg"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which red grape is also important in Burgenland blends?",
+        "options": ["Zweigelt", "Cabernet Sauvignon", "Merlot", "Pinot Noir"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is rare in Burgenland?",
+        "options": ["Sparkling wine", "Blaufränkisch red wine", "Botrytized sweet wine", "Zweigelt red wine"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What soil type is common in Mittelburgenland DAC?",
+        "options": ["Clay and loam", "Primary rock", "Basalt", "Granite"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DAC of Burgenland allows both red and white wines?",
+        "options": ["Leithaberg", "Mittelburgenland", "Eisenberg", "Neusiedlersee"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these regions is famous for Trockenbeerenauslese in Austria?",
+        "options": ["Neusiedlersee", "Wachau", "Kamptal", "Carnuntum"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is a key climatic feature of Burgenland?",
+        "options": ["Influence of Lake Neusiedl and warm Pannonian air", "Alpine cooling", "Strong maritime breezes", "Desert dryness"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style of sweet wine is common in Burgenland?",
+        "options": ["Trockenbeerenauslese", "Sparkling wine", "Dry fortified wine", "Ice wine only"],
+        "correct_index": 0
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the signature grape of Steiermark?",
+        "answer": "Sauvignon Blanc"
+    },
+    {
+        "type": "spoiler",
+        "question": "What is the climate type of Steiermark?",
+        "answer": "Cool Alpine-influenced continental"
+    },
+    {
+        "type": "spoiler",
+        "question": "What rosé style is traditional in Steiermark?",
+        "answer": "Schilcher (Blauer Wildbacher rosé)"
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape is a specialty of Steiermark?",
+        "options": ["Sauvignon Blanc", "Grüner Veltliner", "Blaufränkisch", "Zweigelt"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DAC of Steiermark focuses on Sauvignon Blanc and Morillon?",
+        "options": ["Südsteiermark DAC", "Wachau DAC", "Mittelburgenland DAC", "Carnuntum DAC"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which rosé style is produced from Blauer Wildbacher in Weststeiermark?",
+        "options": ["Schilcher", "Saignée", "Clairet", "Blanc de Noirs"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What is Morillon better known as internationally?",
+        "options": ["Chardonnay", "Pinot Gris", "Pinot Blanc", "Riesling"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What climate influences Steiermark viticulture?",
+        "options": ["Alpine cooling", "Desert winds", "Tropical breezes", "Maritime influence"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is NOT a DAC of Steiermark?",
+        "options": ["Kamptal", "Südsteiermark", "Vulkanland Steiermark", "Weststeiermark"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which style is typical for Südsteiermark DAC wines?",
+        "options": ["Fresh, dry whites", "Sweet botrytized wines", "Fortified reds", "Sparkling rosés"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What soil type is common in Steiermark's vineyards?",
+        "options": ["Volcanic and sedimentary soils", "Granite", "Limestone only", "Basalt exclusively"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DAC of Steiermark is famous for volcanic soils?",
+        "options": ["Vulkanland Steiermark DAC", "Südsteiermark DAC", "Weststeiermark DAC", "Leithaberg DAC"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which grape besides Sauvignon Blanc is significant in Steiermark?",
+        "options": ["Welschriesling", "Blaufränkisch", "Zweigelt", "Grüner Veltliner"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "What style is rare in Steiermark?",
+        "options": ["Red wine", "Dry white wine", "Schilcher rosé", "Fresh Sauvignon Blanc"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which DAC of Steiermark produces Schilcher rosé wines?",
+        "options": ["Weststeiermark DAC", "Südsteiermark DAC", "Vulkanland Steiermark DAC", "Leithaberg DAC"],
+        "correct_index": 0
+    },
+    {
+        "type": "quiz",
+        "question": "Which of these is a typical style from Vulkanland Steiermark?",
+        "options": ["Spicy Sauvignon Blanc", "Sweet botrytized wines", "Fortified wines", "Sparkling rosé"],
+        "correct_index": 0
+    }
+]
